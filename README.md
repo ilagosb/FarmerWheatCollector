@@ -1,4 +1,4 @@
-# FarmerWheatCollector
+# Farmer Wheat Collector
 Game prototype where you need collect wheat and then change that for money
 
 ## Features
