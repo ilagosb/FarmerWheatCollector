@@ -11,6 +11,8 @@ Game prototype where you need collect wheat and then change that for money
 - DOTween http://dotween.demigiant.com
 - Joystick Pack https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
 - Ezy Slice https://github.com/DavidArayan/ezy-slice
+- Cinemachine
 
 ## Gameplay video
-[![Gameplay video](https://drive.google.com/file/d/1IT39EPlGRAbk2eoLUMTdmFL9b8V6939Z/view?usp=sharing)](https://drive.google.com/file/d/1IT39EPlGRAbk2eoLUMTdmFL9b8V6939Z/view?usp=sharing)
+https://user-images.githubusercontent.com/33226671/182154404-5b242949-dbfe-41dc-bbfa-7773ac57456f.mp4
+
